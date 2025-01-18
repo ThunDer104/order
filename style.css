@@ -478,4 +478,12 @@ p {
   .footer__socials {
     justify-content: center;
   }
+  .welcome__date-wrapper {
+    height: unset ;
+    min-height: 60px;
+    padding: 10px 15px 0 15px;
+  }
+  .date {
+    width: 100%;
+  }
 }
